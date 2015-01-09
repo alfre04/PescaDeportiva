@@ -3,10 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.example.myapp"
+        id        = "mx.gob.sectur.pesadeportiva"
         version   = "1.0.0">
 
-    <name>Pesca Deportiva</name>
+    <name>Sportfishing México</name>
 
     <description>
         ¡Sé parte de la pesca deportiva en México! Conoce toda la información necesaria para realizar esta actividad en el país; encuentra el manual de procedimientos y una guía de pesca deportiva para que tu experiencia sea la mejor. 
